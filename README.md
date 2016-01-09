@@ -1,3 +1,3 @@
-# planning
+# HospitalRun planning
 
-A generic planning repo for various project details like marketing, events, etc.
+A place for planning and discussing all of the things that aren't related to the codebase itself.

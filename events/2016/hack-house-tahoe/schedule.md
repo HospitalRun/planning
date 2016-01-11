@@ -1,10 +1,11 @@
-| Sunday        | Monday           | Tuesday          | Wednesday           | Thursday         | Friday           | Saturday         |
-|---------------|------------------|------------------|---------------------|------------------|------------------|------------------|
-|               | Breakfast @house | Breakfast @house | Breakfast @house    | Breakfast @house | Breakfast @house | Breakfast @house |
-|               | Hack time        | Hack time        | Hack time           | Hack time        | Hack or Freetime | Depart by 8am    |
-| Arrive        | Lunch @house     | Lunch @house     | Lunch @house        | Lunch @house     | Lunch @house     |                  |
-|               | Free afternoon   | Stratops         | Hack time           | Free afternoon   | Hack or Freetime |                  |
-| Dinner @house | Dinner @house    | Dinner @house    | Dinner out together | Dinner @house    | Dinner @house    |                  |
-|               | Hack or Freetime | Hack or Freetime | Free evening        | Hack or Freetime | Free evening     |                  |
+| Sunday                           | Monday                                  | Tuesday                               | Wednesday                                                    | Thursday                                | Friday                           | Saturday                       |
+|----------------------------------|-----------------------------------------|---------------------------------------|--------------------------------------------------------------|-----------------------------------------|----------------------------------|--------------------------------|
+|                                  | :coffee::egg::doughnut: @house          | :coffee::egg::doughnut: @house        | :coffee::egg::doughnut: @house                               | :coffee::egg::doughnut: @house          | :coffee::egg::doughnut: @house   | :coffee::egg::doughnut: @house |
+| :airplane::red_car:              | :computer: Hack                         | :computer: Hack                       | :computer: Hack                                              | :computer: Hack                         | :computer: Hack or Freetime      | Depart by 11am                 |
+| :airplane::red_car: Arrive       | :pizza::hamburger: @house               | :pizza::hamburger: @house             | :pizza::hamburger: @house                                    | :pizza::hamburger: @house               | :pizza::hamburger: @house        |                                |
+| :airplane::red_car:              | :snowboarder::snowflake: Free afternoon | :memo::notebook::microscope: Stratops | :computer: Hack time                                         | :snowboarder::snowflake: Free afternoon | :beers::sunglasses: Relax        |                                |
+| :poultry_leg::stew::beer: @house | :poultry_leg::stew::beer: @house        | :poultry_leg::stew::beer: @house      | :meat_on_bone::fried_shrimp::wine_glass: Dinner out together | :poultry_leg::stew::beer: @house        | :poultry_leg::stew::beer: @house |                                |
+|                                  | :computer: Hack or Freetime             | :computer: Hack or Freetime           | :beers::sunglasses: Free evening                             | :computer: Hack or Freetime             | :beers::sunglasses: Relax        |                                |
+
 
 (Easy editing by copy/paste from [Table Magic](http://stevecat.github.io/table-magic/))

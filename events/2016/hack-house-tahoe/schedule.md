@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 | Sunday                           | Monday                                            | Tuesday                                 | Wednesday                                                    | Thursday                                | Friday                           | Saturday                       |
 |----------------------------------|---------------------------------------------------|-----------------------------------------|--------------------------------------------------------------|-----------------------------------------|----------------------------------|--------------------------------|
 |                                  | :coffee::egg::doughnut: @house                    | :coffee::egg::doughnut: @house          | :coffee::egg::doughnut: @house                               | :coffee::egg::doughnut: @house          | :coffee::egg::doughnut: @house   | :coffee::egg::doughnut: @house |

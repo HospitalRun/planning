@@ -48,3 +48,29 @@
 ## Unresolved
 - The extent to which we want to provide a place to manage information or tasks, versus just a place to see chronologically relevant information
 	- if we want to provide a basic place to assist your workflow in managing what you need to do, then it makes sense to have the Action states; if we don't want to provide that, and only want Notifications to be a simple "FYI here's what happened" solution, then we should only have an Alert notification type, and not the Action states; so we still need to clarify what we want to provide
+
+# Product planning meeting 6/2/16 • Notifications follow up
+
+**@jglovier, @tangollama**
+
+## Notification types
+
+- 1.0 should just have alert style notifications; stateful notifications (e.g. action items) could come later, but not needed for 1.0
+- we can track data in the beta and figure out how much people use notifications, and whether it would even be worth while to have stateful notifications (as a way of tracking work to be done)
+- New Relic could potentially be the analytics solution
+- Post-beta we could ask implementers if they want to let us track usage data to help improve the app
+
+## Filtering/Categories
+
+- Are there types of alerts?
+- Physicians and cashiers will be the roles most likely to benefit from different types of alerts, and the ability to filter them in the notifications view
+- We could solve by having a simple select menu to filter by alert category
+
+## In app vs Native app
+
+- We should do both (and option for neither)
+  - Use in-app alerts by default when you are in the app
+  - Use native desktop alerts (with permission) once you've left the app
+  - Have option to turn off immediate alerts, because many users may not want this, and just want to see notifications as a non-inturruptive unread notifications indicator in the UI
+- Notifications on the notification view will be marked as read once immediately visiting that view
+- Clicking through the notification to content will restate the notification at the top of the page, with a close button for those who wish to close it immediately (otherwise it will simply be gone after you leave the page)

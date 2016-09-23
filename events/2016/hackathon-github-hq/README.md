@@ -37,7 +37,7 @@ You can work along with us wherever you are by joining the `#github-hackday-2016
 |---|---|
 | **Friday, September 23rd** | |
 | 9:00 am | Ember overview (with [@embersherpa](https://twitter.com/embersherpa)) & getting local dev environments setup |
-| 11:00 am | [@tangollama](https://github.com/tangollama) |
+| 11:00 am | [@tangollama](https://github.com/tangollama) short talk about what HospitalRun is and why we are building it |
 | 12:00 pm | Lunch |
 | 1:00 pm | [Work on open `help-wanted` issues](https://github.com/HospitalRun/hospitalrun-frontend/projects/1) |
 | 6:00 pm | Dinner |

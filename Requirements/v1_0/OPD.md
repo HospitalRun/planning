@@ -148,21 +148,20 @@ Note: In addition to the generic discharge job above
 
 
 
-
 #### When: It is determined that surgery is needed for the patient being examined (Doctor)
 
 **I want to:** Create a operative plan that includes:
 
-1. one or more procedures
-2. required equipment
-3. any pre-op labs or images needed (orders)
-4. any other special pre-op instructions for time of admission
-5. Schedule the surgery and admission datetimes OR specify that surgery needs to be scheduled
+1. a description of the operation planned
+2. a list of one or more procedures planned
+3. any required equipment
+4. any  pre-op instructions for time of admission, such as labs, images or blood
+5. Schedule the admission and surgey date/times  OR note that surgery needs to be scheduled
 
  
 **So I can:** plan for the operation 
 
-Note: if dates are not scheduled by the doctor during the encounter, the receptionist may try to schedule dates with the patient before they leave the clinic that day.
+Note: if dates are not scheduled by the doctor during the encounter, the receptionist may try to schedule dates with the patient before they leave the clinic that day.  Alternately, surgery may be scheduled at some later time, including the admissions visit.
 
 *** 
 
@@ -184,37 +183,16 @@ Note: if dates are not scheduled by the doctor during the encounter, the recepti
 
 1. record the procedure performed
 2. record chargeable items
-3. record medications used
+3. record any medications used
+4. record any additional notes
 
 
- 
 **So I can:** 
 
 1. properly record patient treatment
 2. record information to help determine the proper cost of treatment
 
-
-*** 
-
-
-
-#### When: Examining a patient in the clinic during a follow-up visit (Doctor)
-
-**I want to:**
-
-1. Quickly find the patient in the system
-2. Review the patient history
-3. prescribe any medications
-4. record any instructions to the patient
-5. generate a clinic visit form for the patient to take
- 
-**So I can:**
-
-1. continue treatment
-2. advise the patient of my instructions
-
-
-*** 
+***  
 
 
 #### When: I am reviewing a patient prior to surgery, outside of clinic (Doctor)
@@ -239,7 +217,7 @@ Note: if dates are not scheduled by the doctor during the encounter, the recepti
 **So I can:** 
 
 1. ensure that I service requests in the appropriate order and timeliness
-2. 2. notify the doctor/nurse that the request has been completed, with any appropriate notes.
+2. inform the doctor/nurse that the request has been completed, with any appropriate notes.
 
 
 ****************************************
@@ -271,6 +249,7 @@ Assumption is that Patient IDs are always hyperlinks to the patient record, and 
 4. Gender
 5. CURE ID
 
+
 ####Clinic Visit Page: Visit Essentials
 
 1. Reason for Visit / Chief complaint.
@@ -297,43 +276,6 @@ sort and filter on: Visit Type, Doctor, Appt flag    (and combinations of these)
 8. Had appointment Flag  (patient had a scheduled appt)
 9. Doctor (or who is seeing the patient)
 10. Checkout (button)
-11. Order Indicator  (showing some outstanding order: lab, x-ray
+11. Order Indicator  (flag is an order is outstanding)
 
 
-####Clinic Visit Report- Admissions Form
-
-1. Patient ID
-2. First Name
-3. Last Name
-4. Date of Visit
-5. H & P from the visit  (NOT full medical history)
-	- chief complaint/reason for visit
-	- history of present illness
-	- Allergies
-	- Medications currently on
-	- Vitals
-6. Labs results (if performed)
-7. X-rays taken (if done)
-8.  Procedures Planned 
-9. Scheduled Admissions date (if applicable)
-10. Surgery Date (if applicable)
-11. Instructions on Admission (labs, x-rays)
-12. Notes / Instruction to patient
-
-
-
-
-####Operation Plan
-
-1. Patient ID  
-2. First Name 
-3. Last Name
-4. Diagnosis   (link to the Visit where the diagnosis was made)
-5. Procedure Description (free form text)
-6. Procedure List  (one or more selections from the list of procedures)
-7. Case complexity - Planned 
-8. Surgery Date ( optional, may be set later )
-9. Surgeon
-10. Required resources - such as C-Arm unit    (free form text
-11. Instructions upon Admission - Labs, x-rays, blood.  (free form text.  Requests would be entered in the admissions visit)
-12. Additional Notes

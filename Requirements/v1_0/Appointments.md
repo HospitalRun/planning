@@ -1,10 +1,10 @@
-## Appointment Overview
+## Appointment Overview - IN PROGRESS
 
-1. Patient appointments can be for clinic visits or admission visits.
+1. Patient appointments can be for visits of various types (clinic, admission, etc.)
 2. Patients may be private or charity
 3. In this document, clinic is broadly defined as any outpatient doctor / patient encounter.
 4. Some clinic appointments may simply be for a given day, with no specific time. 
-5. A method to  categorize different clinics in the same physical building is required. For example: new patient clinic, clubfoot clinic, private clinic in the same physical building or campus
+5. A method to categorize different clinics in the same physical building is required. For example: new patient clinic, clubfoot clinic, private clinic in the same physical building or campus
 6. Patients may be assigned to specific doctors at time of appointment, or may not.
 7. The receptionist role typically manages appointment lists for clinics.  They will need to be able to easily view and update the appointment list for a given day, for a given clinic, for a given doctor.
 8. When patients come for the appointment, the appointment will need to be satisfied, and a corresponding visit created (see OPD requirements)

@@ -17,31 +17,41 @@ Note: this material was originally in the OPD requirements document.  See also t
 
 ### Summary
 
-#### *Doctor:* Plans a surgery for a patient
-#### *Doctor:* Reviews a patient who is going to have surgery
-#### *Doctor:* Completes an operation
+#### *Doctor:* Planing a surgery for a patient
+#### *Doctor:* Reviewing a patient who is going to have surgery
 
 
-#### When: A new patient arrives in the clinic (Receptionist)
+
+#### When: A planning an operation for a patient (Doctor)
 
 **I want to:**
  
-1. Quickly capture their essential demographic information.
-2. Choose their visit type
-3. Choose the doctor they will be seeing
-4. Note if they had an appt or are a walk-in
+1. Verify the Diagnosis
+2. Describe the operation overall
+3. Select the procedures to be performed
+4. Schedule the operation date and time, if possible
+5. Make additional notes
 
 
  
-**So I can:** Quickly add them to the clinic waiting list for that day.
+**So I can:** Capture the surgical plan for the patient with the diagnosis
 
-Notes:
-
-1. Essential Demographic info means a subset of the full demographic set of fields.
-2. If patient had an appointment, it is now fulfilled, and a new visit created from the appt.
-3. Patients with appts are somehow differentiated from walk-ins
 
 ***
+
+#### When: Reviewing a patient who is going to have surgery (Doctor)
+
+**I want to:**
+ 
+1. Locate the patient and the operation plan
+2. Review and update the plan elements as needed
+3. Save the updated plan
+
+
+**So I can:** Ensure the plan is accurate and up-to-date.  
+
+***
+
 
 ### Data Elements
 
@@ -56,13 +66,12 @@ Notes:
 1. Patient ID  
 2. First Name 
 3. Last Name
-4. Diagnosis (prepopulated with the active diagnosis, and can be edited)
+4. Diagnosis (pre-populated with the active diagnosis, and can be edited)
 5. Operation Description (free form text)
 6. Procedure List  (one or more selections from the list of procedures in the system)
-7. Case complexity - Planned ( free form )
+7. Case complexity - Planned ( free form text)
 8. Surgery Date ( optional, may be set later )
 9. Surgeon
-10. Required resources - such as C-Arm unit    (free form text
-11. Instructions upon Admission - Labs, x-rays, blood.  (free form text.  Requests would be entered in the admissions visit)
-12. Additional Notes
-13. Custom Fields
+10. Instructions upon Admission - such as enter requrests for Labs, x-rays, blood.  (free form text) 
+11. Additional Notes
+12. Custom Form (optional)

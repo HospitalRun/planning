@@ -1,4 +1,4 @@
-## Operative Plan - IN PROGRESS
+## Operative Plan
 Note: this material was originally in the OPD requirements document.  See also the requirements document for Operation Report.
 
 1. An operative plan (aka Surgical or Operation plan) is used by a doctor to note what procedures are planned for a specific surgery and other related information to facilite the surgery. 

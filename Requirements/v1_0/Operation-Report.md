@@ -16,9 +16,10 @@
 **I want to:**  Complete an Operation Report by:
  
 1. Locating the patient 
-2. Locating the appropriate operation plan for that patient 
+2. Locating the appropriate operative plan for that patient 
 3. Creating a new operation report, pre-populated with information from the plan
-4. Complete the report 
+4. Update any information in the report, that differed from the plan
+5. Complete the report, effectively closing out the plan.
  
 **So I can:** Keep accurate records of surgery
 
@@ -42,6 +43,7 @@
 **I want to:**  Locate and review an operation report for a given patient by: 
 
 1. Locate any operations that do not yet have a completed operation report
+2. Complete reports as needed, closing out the open plans.
 
 
 **So I can:** Complete all operation reports in a timely manner
@@ -59,17 +61,16 @@
 * this report can be supplemented with a custom form
 
 
-
 1. Patient ID  
 2. Patient Last name 
 3. Patient First Name 
 4. Date of Operation
 5. Surgeon   (drop down)
 6. Assistants (drop down - doctors)
-7. pre-op Diagnosis  
+7. pre-op Diagnosis (from the plan) 
 8. post-op Diagnosis  (pre-populated from the current patient diagnosis)
 9. Procedures performed (free form text)
 10. Procedures performed (one or more from drop down list)
-11. Case complexity - Actual (number from 1-10)
+11. Case complexity - Actual (free form)
 12. Complications
 13. Notes

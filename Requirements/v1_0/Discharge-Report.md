@@ -91,11 +91,9 @@
 6. Patient Age
 7. Admission Date
 8. Discharge Date
-9. Doctor/Surgeon  (from drop down)
+9. Doctor/Surgeon  (from physician drop down)
 10. Current Diagnosis   (aka active patient diagnosis)
 11. All Procedures performed with Dates   (not just from the current visit
-12. Complications  (free form)
-13. Medicine orders  (free form)
-14. Discharge Plan   (free form)
-15. Next Appointment - Date Time and location
-16. Completed By.    (the user completing the form, populated from the login)
+12. Notes  (free form)
+13. Next Appointment - Date Time and location
+14. Completed By.    (the user completing the form, populated from the login)

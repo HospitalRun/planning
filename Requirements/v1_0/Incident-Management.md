@@ -11,6 +11,10 @@
 9. CQI staff should review all incidents, but may chose to close some without further investigations.  
 10. Incidents will be reported at some frequency (monthly, quarterly) typically to a management or leadership team.  
 
+TBD MEL
+1. simple permissions....can do anything with Incidents
+2. expose the last updated by:
+
 
 
 ## Jobs to be Done (JTBD)
@@ -145,11 +149,12 @@ Incidents could be supplemented by one or more custom forms
 
 1. Incident ID
 2. Entered by   (user name)
-3. DateTime Entered
+3. DateTime Created
 4. DateTime of last update
-5. DateTime of incident
-6. Type of Incident
-7. Sub-type of Incident 
+5. Updated By
+6. DateTime of incident
+7. Type of Incident
+8. Sub-type of Incident 
 8. Description
 9. Status of incident  
 

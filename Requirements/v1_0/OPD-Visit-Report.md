@@ -7,10 +7,9 @@
 1. This report is created at completion of an outpatient visit.   Its primary purpose is to inform the patient of the outcome of the visit, and to provide a record for any future appointments.   It is not needed by OPD personnel per se, since all the information on the report is already in the system.
 2. Ideally, the report is created with a simple click on a visit page.  There is no need to prevent duplicate reports being created for a single visit. 
 3. It is the responsibility of the OPD personnel (including receptionist and/or cashier) to ensure that all required information relative to the visit, has been recorded in the system, prior to creating the report.
-4. Ideally, the report fits on one page.
-5. It would be desirable if the report could be generated in the native language of the patient; which is to say that the field lables are in the native language. 
-6. The visit report DOES NOT serve as a prescription form, although any Med orders requested by the doctor during the visit are to be noted on the report. 
-7. The report can also serve as a type of Admissions Form, to be presented by the patient upon return for an admission visit. 
+4. It would be desirable if the report could be generated in the native language of the patient; which is to say that the field lables are in the native language. 
+5. The visit report DOES NOT serve as a prescription form, although any Med orders requested by the doctor during the visit are to be noted on the report. 
+6. The report can also serve as a type of Admissions Form, to be presented by the patient upon return for an admission visit. 
 
 
 **Notes:** 
@@ -51,6 +50,7 @@
 
 **Notes**: 
 
+This report can be suplemented with a custom form.
 
 
 ####OPD Visit Report

@@ -14,6 +14,9 @@
 TBD MEL
 1. simple permissions....can do anything with Incidents
 2. expose the last updated by:
+3. Admin: type ans subtype
+4. Admin: email for sentinal
+5. Report???   needed for v1.0
 
 
 
@@ -155,8 +158,8 @@ Incidents could be supplemented by one or more custom forms
 6. DateTime of incident
 7. Type of Incident
 8. Sub-type of Incident 
-8. Description
-9. Status of incident  
+9. Description
+10. Status of incident  
 
 
 

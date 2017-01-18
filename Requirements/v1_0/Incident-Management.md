@@ -138,6 +138,8 @@ Note:  will need a configurable email address for notification
 
 **Notes**: 
 
+Incidents could be supplemented by one or more custom forms
+
 * essential elements for all incidents
 
 
@@ -154,8 +156,8 @@ Note:  will need a configurable email address for notification
 
 
 
-#### Supplemental Forms
- (as needed per incident, could be additional tabs)
+#### Possible Custom Forms
+ (Could custom forms be managed somewhat differently here, in a separate tab?)
 
 1. investigation team
 2. HARM scoresheet  

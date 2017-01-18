@@ -1,7 +1,7 @@
 ## Incident Reporting
 
 1. Incidents are reported by hospital staff, reviewed by CQI (continuous quality improvement) staff, investigations are conducted, recommendations are made and tracked, finally, the incident is closed. 
-2. Nominal states of an incident are reported > active > follow-up > closed)  
+2. Nominal states of an incident are reported > active > follow-up > closed 
 3. When a reportable incident occurs within a hospital, an incident report should be completed in a timely manner, and can be created by any staff member, with the exception of Sentinel events, which are completed by clinical leadership.  
 4. Sentinel events are incidents of a most serious nature.  A sentinel event typical must be reported to clinical and possibly hospital leadership within some timeframe (e.g. 24 hours)  
 5. Follow-up information containing additional details for all sentinel events must be provided as a follow-up, again, typically time-bound (e.g. 5 business days)  

@@ -59,7 +59,7 @@
 
 **Notes**: 
 
-* this report can be supplemented with a custom form
+* The operative Report will share any custom form added to the corresponding operative plan.  It does not have a separate form.
 
 
 1. Patient ID  

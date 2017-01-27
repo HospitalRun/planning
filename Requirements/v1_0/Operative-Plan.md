@@ -15,10 +15,7 @@ Note: this material was originally in the OPD requirements document.  See also t
 
 ## Jobs to be Done (JTBD)
 
-### Summary
 
-#### *Doctor:* Planing a surgery for a patient
-#### *Doctor:* Reviewing a patient who is going to have surgery
 
 ***
 
@@ -29,9 +26,8 @@ Note: this material was originally in the OPD requirements document.  See also t
 1. Verify the Diagnosis
 2. Describe the operation overall
 3. Select the procedures to be performed
-4. Schedule the operation date and time, if possible
-5. Make additional notes
-
+4. Assign a case complexity
+4. Make additional notes
 
  
 **So I can:** Capture the surgical plan for the patient with the diagnosis
@@ -57,8 +53,8 @@ Note: this material was originally in the OPD requirements document.  See also t
 
 **Notes**: 
 
-* this report can be supplemented with a custom form
-* once created, the plan can be edited, up until the point that it is completed.
+* The plan can be supplemented with a custom form.  The same form will then be used in the Operative Report
+* Once created, the plan can be edited, up until the point that it is completed.
 
 
 ####Operation Plan
@@ -70,8 +66,8 @@ Note: this material was originally in the OPD requirements document.  See also t
 5. Operation Description (free form text)
 6. Procedure List  (one or more selections from the list of procedures in the system)
 7. Case complexity - Planned ( free form text)
-8. Surgery Date ( optional, may be set later )
 9. Surgeon
+10. Upcoming appointments (both visit and surgery)
 10. Instructions upon Admission - such as enter requrests for Labs, x-rays, blood.  (free form text) 
 11. Additional Notes
 12. Custom Form (optional)

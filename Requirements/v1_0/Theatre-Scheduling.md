@@ -3,12 +3,12 @@
 1. Theatre scheduling is the process of scheduling surgeries and managing surgical calendars.  
 2. The resources involved are a patient, a surgeon or surgical team and an operating room. 
 3. In a clinical setting, surgeries will be scheduled during a clinical visit, so that the patient can be advised when to go to the hospital.
-4. During a clinic visit, as part of creating an operative the surgeon would seek to schedule the surgery.
+4. During a clinic visit, a surgeon would create an operative plan, then look to schedule the surgery.  And possibly even move to schedule the admissions appointment.  
 5. Surgeries are not a type of visit, rather an event that occurs during an admission visit.  However, surgeries are similar to visits in the sense that a patient would have an "appointment" for a surgery.
 6. Accordingly, when a surgery is scheduled, the corresponding admission visit may be scheduled.  
 7. Ideally, both the surgery and the admission are scheduled during a clinic visit, however, this may not always be possible.  Financial arrangements, for example, may be required before a committment to surgery is made.   
 8. Surgeons and other hospital staff therefore need to be able to schedule surgery and admission visits "outside" of a clinical visit.
-9. Surgeons and supporting hospital staff need to be able to view surgical calendars in a timely manner, and make adjustments as needed.  They would review schedules in the context of a day, week or month, for a given resource (surgeon, surgical team, operating room.
+9. Surgeons and supporting hospital staff need to be able to view surgical calendars in a timely manner, and make adjustments as needed.  They would review schedules in the context of a day, week or month, for a given resource (surgeon, surgical team) and proceudre location (ie. operating room).
 10. To assist in managing unschedule surgeries, hospital staff would like to be able to locate any planned surgeries that are NOT yet scheduled.
 11. A "planned surgery" is manifest as an active operative plan.
 12. A scheduled surgery is a type of appointment, somewhat similar to a visit appointment (but not exactly the same)
@@ -26,9 +26,9 @@
 ## Jobs to be Done (JTBD)
 
 
-#### When: A surgeon is making an operative plan (Doctor)
+#### When: A surgeon is planning an operation during a visit (Doctor)
 
-**I want to:**  Schedule surgery for the patient as part of completing my operative plan.  I would like the surgery appointment to be seen on the operative plan.
+**I want to:**  Schedule surgery for the patient during the visit.   I would like the surgery appointment to be seen when viewing the operative plan.
 
  
 **So I can:** Ensure that surgery is properly planned and scheduled, ideally before the patient leaves the clinic.
@@ -44,21 +44,22 @@
 
 *** 
  
-#### When: hosptial staff is seeking to schedule a surgery  (Doctor, Nure) 
+#### When: hosptial staff is seeking to schedule a surgery  (Doctor, Nurse) 
 
-**I want to:**  Quickly locate a patient, and their associated  operative plan
+**I want to:**  View a surgical calendar, and add the surgery appointment.   
 
 
 **So I can:** So I can schedule the surgery, and possibly admissions visit for the patient.
 
+
 *** 
 
-#### When: hosptial staff is managing un-scheduled surgeries (roles) 
+###UX notes:
 
-**I want to:**  Locate operative plans that currently do not have surgery appointments associated with them.
+* a schedule surgery button on the patient apppointment tab is ideal
+* the appointment main menu should be changed to Scheduling
+* under Scheduling, a menu pick for Surgical Appointments should be added.
 
-
-**So I can:** Manage the timely processing of pre-conditions blocking the scheduling of surgeries.
 
 
 
@@ -79,6 +80,5 @@ Each surgical appointment will have:
 3. Patient First Name 
 4. Begining DateTime of surgery
 5. Ending DateTime of surgery
-5. Surgeon
-6. 
-6. ...
+6. Physician (aka surgeon or surgical team)
+7. Procedure Location

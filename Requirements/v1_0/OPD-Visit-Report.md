@@ -66,10 +66,11 @@ Note: fields below are given in the top to bottom order on the page.
 8. Images taken: Image type (if applicable)
 9. Meds ordered (regardless of whether or not they were fufilled)
 10. Next Appointments dates and types (if applicable)
-11. Operative Plan specifics (if an active plan is present)
+11. Fields from Operative Plan (if an active plan is present, else leave blank)
     1. Operation Description
     2. List of procedures planned
-    3. Special Instructions to medical personnel upon Admission such as labs, x-rays, blood etc.)   
+    3. Instructions upon Admission 
+12. Custom Form Fields   
 
 
 

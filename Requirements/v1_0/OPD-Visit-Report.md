@@ -52,6 +52,7 @@
 This report can be suplemented with a custom form.
 
 
+
 ####OPD Visit Report
 
 Note: fields below are given in the top to bottom order on the page.
@@ -60,7 +61,7 @@ Note: fields below are given in the top to bottom order on the page.
 2. Patient First Name
 3. Patient Last Name
 4. Date of (this) Visit
-5. Active Diagnosis, primary and secondary
+5. Active Diagnosis, primary and secondary, from the visit. 
 6. OPD Procedures Performed during visit (if applicable)
 7. Lab orders requested (if applicable
 8. Images taken: Image type (if applicable)

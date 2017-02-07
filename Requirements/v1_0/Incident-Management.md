@@ -149,14 +149,14 @@ Incidents could be supplemented by one or more custom forms
 * essential elements for all incidents
 
 
-1. Incident ID
+1. Incident ID  (auto)
 2. Entered by   (user name)
-3. DateTime Created
-4. DateTime of last update
-5. Updated By
+3. DateTime Created   (auto)
+4. DateTime of last update   (auto)
+5. Updated By  (auto)
 6. DateTime of incident
-7. Type of Incident
-8. Sub-type of Incident 
+7. Category of Incident
+8. Category Item of Incident 
 9. Description
 10. Status of incident  
 
@@ -164,7 +164,7 @@ Incidents could be supplemented by one or more custom forms
 
 
 #### Possible Custom Forms
- (Could custom forms be managed somewhat differently here, in a separate tab?)
+ (Could multiple custom forms be managed somewhat differently here, in a separate tab? or list)
 
 1. investigation team
 2. HARM scoresheet  

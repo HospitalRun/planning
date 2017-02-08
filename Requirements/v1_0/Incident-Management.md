@@ -200,4 +200,11 @@ Note:  will need a configurable email address for notification
 
 ### Permissioning
 
-TBD.
+1. Only two permissions (or levels) are required.
+1. First is:
+    1. to create incidents
+    2. view only incidents I created
+    3. Update only the Description, Category, Category Item and Patient of incidents I created.  No other data items can be edited or updated.
+    4. This first permission would not allow you to delete
+1. The second permission set gives full edit, update and delete capabilities to any and all incidents in the system.   This set of permissions would be used by a very small group of individuals in the hospital responsible for investigating and managing incidents.
+ 

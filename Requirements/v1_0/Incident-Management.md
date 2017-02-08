@@ -2,17 +2,17 @@
 
 1. Incidents are reported by hospital staff, reviewed by CQI (continuous quality improvement) staff, investigations are conducted, recommendations are made and tracked, finally, the incident is closed. 
 2. Nominal states of an incident are reported > active > follow-up > closed 
-3. Incidents need to be assigned a configurable type and subtype.  Configuration of type and sub-type is an Administration function
+3. Incidents need to be assigned a configurable catagory and category item.  Configuration of these itmes is an Administration function
 4. When a reportable incident occurs within a hospital, an incident report should be completed in a timely manner, and can be created by any staff member, with the exception of Sentinel events, which are completed by clinical leadership.  
 5. Sentinel events are incidents of a most serious nature.  A sentinel event typical must be reported to clinical and possibly hospital leadership within some timeframe (e.g. 24 hours)  
-6. Follow-up information containing additional details for all sentinel events must be provided as a follow-up, again, typically time-bound (e.g. 5 business days)  
-7. Select incidents, may require follow-up activities such as conducting investigations, completing assessment, determining HARM scores, making recommendations etc. 
+6. Addtional information containing details for all sentinel events must be provided as a follow-up activity, typically time-bound (e.g. 5 business days)  
+7. Select incidents, may require follow-up activities such as conducting investigations, completing assessments, determining HARM scores, making recommendations etc. 
 8. Select incidents may have directly impacted a patient.  A link to the patients data in the system would be used to facilitate investigation and review of the incident.   
-9. CQI staff will identify incidents requiring further investigation, and assign individuals to be part of the investigation team.  Individuals on that team will need to add and update information related to that incident.  
+9. CQI staff will identify incidents requiring further investigation.    
 10. CQI staff will review the results of investigations, and then be able to close an incident.  
-11. CQI staff should review all incidents, but may chose to close some without further investigations.  
+11. CQI staff will review all incidents, but may chose to close some without further investigations.  
 12. Incidents will be reported at some frequency (monthly, quarterly) typically to a management or leadership team.
-13. For v1.0 a simple permissions model will sufficience.  Enter and Update incidents.  
+13. At this time, there are 2 groups of users requiring separate permissions  1) uses that will enter, view and possibly update their own incidents.  2) users that manage all incidents in the hospital. 
 14. The datetime and user who last updated an incident should be visible. 
 15. A site configuration containing an email address needs to be available for the destination of sentinal event notifications. 
 16. Report (export) of incidents is needed.   
@@ -39,20 +39,19 @@
 **I want to:**
    
 1. quickly view all incidents I created  
-2. filter and sort them by status and timetime
+2. update an incident if needed
 
 
 **So I can:** monitor the status of incidents I have entered
 
 ***
  
-#### When: I am chosen for an investigation team  (hospital staff) 
+#### When: Investigating an incident  (hospital staff) 
 
 **I want to:**
    
-1. Update my assigned incident with the new information
-2. Completing any form as needed.
-3. upload and attach files as part of the investigation
+1. Update the incident with any new information
+1. upload and attach files as part of the investigation
 
 **So I can:** Facilitate the timely investigation of incidents
 
@@ -107,14 +106,6 @@ Note:  will need a configurable email address for notification
  
 *** 
 
-#### When: Forming an investigation team (CQI staff) 
-
-**I want to:**  Add individuals to an investigation team and notify them.
-
-**So I can:** Facility the investigation
-
-***
- 
 
 #### When: Managing incidents(CQI staff) 
 
@@ -129,13 +120,6 @@ Note:  will need a configurable email address for notification
 
 ***
 
-#### When: Managing investigations and recommendations (CQI staff) 
-
-
-**I want to:**  Update the incident, potentially adding incident related recommendations
-
-
-**So I can:**  Track the progress of quality initiatives
 
 
 
@@ -192,7 +176,7 @@ Note:  will need a configurable email address for notification
     5. Status
     6. Edit and Delete button (delete is protected by a pop-up)
 1. Each column in the list can be sorted
-1. Filters are on the entered by, category, category item and status columns 
+1. Filters are on the date entered, entered by (user), category, category item and status columns 
 	 
       
 

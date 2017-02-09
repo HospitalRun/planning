@@ -15,7 +15,8 @@
 13. At this time, there are 2 groups of users requiring separate permissions  1) uses that will enter, view and possibly update their own incidents.  2) users that manage all incidents in the hospital. 
 14. The datetime and user who last updated an incident should be visible. 
 15. A site configuration containing an email address needs to be available for the destination of sentinal event notifications. 
-16. Report (export) of incidents is needed.   
+16. Reporting of incidents by department, and by category is required.   
+17. Additonal reports of select incidents (filtering by date ranges, department, and category), showing details of the incident are also required.  
 
 
 
@@ -142,6 +143,7 @@ Note:  will need a configurable email address for notification
 1. Updated By  (auto)
 1. Sentinel Event (checkbox)
 1. DateTime of incident
+2. Department   
 1. Category of Incident
 1. Category Item of Incident
 1. Patient Name Impacted   (optional)
@@ -159,9 +161,9 @@ Note:  will need a configurable email address for notification
 1. The Notes list would show the date, who and some of the Note in the row for each note.  Edit and Delete buttons on each note row.
 1. List of Attachements.  Each attachment contains
     1. Date of attachement
-    2. Who added the attachment (user name)
-    2. Title of the attachment (short text field)
-    3. Attached file
+    1. Who added the attachment (user name)
+    1. Title of the attachment (short text field)
+    1. Attached file
 1. The Attachment list would show the date, who and title of the attachment in each row.  Edit and Delete buttons on each note row.
     	 
 
@@ -170,7 +172,7 @@ Note:  will need a configurable email address for notification
 1. The current incidents page would show a list of incidents (if permissions are granted).
 1. Each row in the list would show:
     1. Date of incident
-    2. Entered by
+    2. Department
     3. Category
     4. Category Item
     5. Status

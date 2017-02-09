@@ -178,7 +178,7 @@ Note:  will need a configurable email address for notification
     5. Status
     6. Edit and Delete button (delete is protected by a pop-up)
 1. Each column in the list can be sorted
-1. Filters are on the date entered, entered by (user), category, category item and status columns 
+1. Filters are on the date of incident, department, category, category item and status columns 
 	 
       
 

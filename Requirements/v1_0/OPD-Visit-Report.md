@@ -60,7 +60,12 @@ Note: fields below are given in the top to bottom order on the page.
 1. Patient ID
 2. Patient First Name
 3. Patient Last Name
+4. Patient Sex
+5. Patient Age and D.O.B.
 4. Date of (this) Visit
+5. Visit Examiner
+6. Visit Location
+7. Notes
 5. Active Diagnosis, primary and secondary, from the visit. 
 6. OPD Procedures Performed during visit (if applicable)
 7. Lab orders requested (if applicable

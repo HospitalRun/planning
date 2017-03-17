@@ -63,9 +63,9 @@ Note: fields below are given in the top to bottom order on the page.
 4. Patient Sex
 5. Patient Age and D.O.B.
 4. Date of (this) Visit
-5. Visit Examiner
+5. Visit Type
+6. Visit Examiner
 6. Visit Location
-7. Notes
 5. Active Diagnosis, primary and secondary, from the visit. 
 6. OPD Procedures Performed during visit (if applicable)
 7. Lab orders requested (if applicable
@@ -76,6 +76,7 @@ Note: fields below are given in the top to bottom order on the page.
     1. Operation Description
     2. List of procedures planned
     3. Instructions upon Admission 
+1. Notes
 12. Custom Form Fields   
 
 

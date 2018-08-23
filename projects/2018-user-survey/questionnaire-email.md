@@ -1,3 +1,5 @@
+**EMAIL INTRO**
+
 Greetings from Hospitalrun,
 
 We at the Hospitalrun project are refocusing our efforts to move out of beta and release version 1.0 of the Hospitalrun software. As part of this effort, we are seeking feedback from current and past users. You are receiving this e-mail because we believe your organization may use or may have used the Hospitalrun software.
@@ -5,13 +7,14 @@ We at the Hospitalrun project are refocusing our efforts to move out of beta and
 To assist us in improving Hospitalrun, please reply to this e-mail after completing the questionnaire below. Received questionnaires will be published in the Hospitalrun github repository, without the organization name or your name attached. We will then perform further follow-up with some respondents in order to develop case studies. The information provided by you will help us determine what to focus on as development moves forward, as well as help potential future users decide whether Hospitalrun can meet their needs.
 
 Thank you,
+
 Hospitalrun Team
 
 
 
 
 
-QUESTIONNAIRE
+**QUESTIONNAIRE**
 
 
 1. GENERAL INFORMATION
@@ -29,36 +32,51 @@ Describe any technical details of your Hospitalrun deployment. (Single PC vs. cl
 
 2. SUBJECTIVE RATING AND IMPORTANCE OF FEATURES
 
-Please rate the attributes of Hospitalrun. For each item, rate your experience with Hospitalrun and also rate how important this attribute is to you.
+Please rate the attributes of Hospitalrun. For each item, rate from 1 to 5 your experience with Hospitalrun and also rate from 1 to 5 how important this attribute is to you.
 
-	A. Documentation / ease of training / ease of use / attractiveness of user interface (How easy is it for your users?)
-		RATING		1 2 3 4 5		IMPORTANCE	1 2 3 4 5
+* Documentation / ease of training / ease of use / attractiveness of user interface (How easy is it for your users?)
 
-	Comments:
-	
+    RATING:
+    
+    IMPORTANCE:
 
-	B. Ease of technical implementation and administration (How easy is it for your IT staff to set up and keep running?)
-		RATING		1 2 3 4 5		IMPORTANCE	1 2 3 4 5
+    Comments:
 
-	Comments:
-	
 
-	C. Stability / correctness of results / software bugs (Does it give correct results and not crash?)
-		RATING		1 2 3 4 5		IMPORTANCE	1 2 3 4 5
+* Ease of technical implementation and administration (How easy is it for your IT staff to set up and keep running?)
 
-	Comments:
-	
+    RATING:
+    
+    IMPORTANCE:
 
-	D. Performance / responsiveness (Does it run fast enough on your computers?)
-		RATING		1 2 3 4 5		IMPORTANCE	1 2 3 4 5 
+    Comments:
 
-	Comments:
-	
 
-	E. Completeness of features (Does it do everything you expect it to and not require you to use additional software?)
-		RATING		1 2 3 4 5		IMPORTANCE	1 2 3 4 5	
+* Stability / correctness of results / software bugs (Does it give correct results and not crash?)
 
-	Comments:	
+    RATING:
+    
+    IMPORTANCE:
+
+    Comments:
+
+
+* Performance / responsiveness (Does it run fast enough on your computers?)
+
+    RATING:
+    
+    IMPORTANCE:
+    
+    Comments:
+
+
+* Completeness of features (Does it do everything you expect it to and not require you to use additional software?)
+
+    RATING:
+    
+    IMPORTANCE:
+
+    Comments:	
 
 
 What features would you most like to see in Hospitalrun which are not currently included?

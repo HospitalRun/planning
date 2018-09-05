@@ -43,21 +43,33 @@ How many patients have been tracked?
 
 Approximately how much did it cost to run HospitalRun in your organization? (Hardware, training, tech support, etc.)
 
-Which Features do you use in HospitalRun?
-[] Inventory
-[] Patients
-[] Scheduling
-[] Imaging
-[] Medication
-[] Labs
-[] Billing
-[] Incident
+Which Features do you use in HospitalRun? (checkboxes)
 
-How is HospitalRun deployed?
-() Individual/Standalone Instances
-() Self-hosted Server
-() Cloud-hosted Server
-() I don't know
+    [] Inventory
+
+    [] Patients
+
+    [] Scheduling
+
+    [] Imaging
+
+    [] Medication
+
+    [] Labs
+
+    [] Billing
+
+    [] Incident
+
+How is HospitalRun deployed? (radio buttons)
+
+    () Individual/Standalone Instances
+
+    () Self-hosted Server
+
+    () Cloud-hosted Server
+
+    () I don't know
 
 Describe your HospitalRun deployment. (number of servers / clients, type of computers, tablets, mobiles, etc.)
 
@@ -66,23 +78,37 @@ Describe the environment your HospitalRun deployment runs in. (how geographicall
 
 3. RATING AND IMPORTANCE OF ATTRIBUTES
 
-A. Rate the attributes of HospitalRun according to your experience.
-Documentation / Ease of use
-Ease of implementation & administration
-Stability / Bugs
-Accuracy of results
-Performance / Reponsiveness
-Completeness of features
-Running offline
+A. Rate the attributes of HospitalRun according to your experience. (very good, good, okay, poor, very poor)
 
-B. Now, rate the importance of each attribute to you.
-Documentation / Ease of use
-Ease of implementation & administration
-Stability / Bugs
-Accuracy of results
-Performance / Reponsiveness
-Completeness of features
-Running offline
+    Documentation / Ease of use
+
+    Ease of implementation & administration
+
+    Stability / Bugs
+
+    Accuracy of results
+
+    Performance / Reponsiveness
+
+    Completeness of features
+
+    Running offline
+
+B. Now, rate the importance of each attribute to you. (very important, important, slightly important, unimportant)
+
+    Documentation / Ease of use
+
+    Ease of implementation & administration
+
+    Stability / Bugs
+
+    Accuracy of results
+
+    Performance / Reponsiveness
+
+    Completeness of features
+
+    Running offline
 
 
 4. SUMMARY
